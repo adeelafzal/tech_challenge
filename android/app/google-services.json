@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433707953978",
+    "project_id": "fluttertestapp-3f60d",
+    "storage_bucket": "fluttertestapp-3f60d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433707953978:android:01aacfde5575ba10852a03",
+        "android_client_info": {
+          "package_name": "com.adeel.tech_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433707953978-gnvjp2h1jkuaof9dbskhmjt9c7akk4ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzh1MbS15qRiCDxA_aRcPIRe7Hmue0b_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433707953978-gnvjp2h1jkuaof9dbskhmjt9c7akk4ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
